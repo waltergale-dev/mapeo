@@ -37,15 +37,5 @@ a{
         text-align: center;
         text-decoration: none;
     }
-    a:hover {
-        position: absolute;
-        
-        bottom: 10rem;
-        left: 25rem;
-        color: black;
-        font-size: 3rem;
-        text-align: center;
-        text-decoration: none;
-        
-    }
+
 }
